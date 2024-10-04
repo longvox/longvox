@@ -5,12 +5,6 @@ I'm a dedicated Software Engineer with a passion for creating efficient and scal
 #### 🌟 About Me:
 I started my coding journey with a strong interest in web development. Over the years, I've honed my skills in various programming languages and frameworks. I enjoy working on projects that challenge me to think critically and push the boundaries of what is possible.
 
-#### 🌱 What I'm Learning:
-I'm currently diving deeper into cloud-native technologies to enhance my DevOps skills and better manage large-scale applications.
-
-#### ⚡ Fun Fact:
-When I'm not coding, I enjoy street photography and exploring new place. Both activities help me clear my mind and come back to work with fresh ideas.
-
 #### 📫 How to Reach Me:
 - **GitHub:** [longvox](https://github.com/longvox)
 - **LinkedIn:** [vo-hoang-long](https://www.linkedin.com/in/vo-hoang-long)
